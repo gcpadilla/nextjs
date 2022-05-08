@@ -1,0 +1,16 @@
+.banner {
+  background-color: #f3f3f3;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.desktop {
+   max-width: 1260px;
+   width: 100%;
+   height: 170px;
+   background: #a0dbe9;
+   margin: auto;
+}
+
+.aside {
+   margin-bottom: 40px;     
+}
