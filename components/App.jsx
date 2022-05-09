@@ -5,8 +5,7 @@ import Banner from './Banner'
 import Lay from './Lay'
 import Footer from './Footer'
 
-const App = ({ children }, props) => {
-   console.log(props)
+const App = ({ children },) => {
    return (
       <>
          <Head>

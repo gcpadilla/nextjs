@@ -6,10 +6,6 @@ const Card = (props) => {
 
    const {article} = props;
    
-   useEffect(() => {
-     console.log(article)
-   }, [])
-   
   return (
    <div className="col mb-4">
      <div className="card h-100">
